@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meet57
 - 👀 I’m interested in Web Applications
-- 🌱 I’m currently learning UI/UX with Figma
+- 🌱 I’m currently practicing competitive coding
 - 💞️ I’m looking to contribute to any startup
 - 📫 My email is : meet57.mp@gmail.com
 
