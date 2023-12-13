@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meet57
-- 👀 Software Developer at MotaData
+- 👀 Passionate Software Developer
 - 🌱 I’m currently practicing competitive coding
 - 💞️ I’m looking to contribute to any startup
 - 📫 My email is : meet57.mp@gmail.com
